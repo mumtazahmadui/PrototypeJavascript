@@ -77,3 +77,5 @@ call and apply call the function immediately but bind return a function that whe
 -> call - pass argument one by one
 -> apply - pass argument as an array
 -> bind - allow pass array or any no. of arguments.
+
+Every object in javascript has a property call constructor and that reference the function are used construct or create object
