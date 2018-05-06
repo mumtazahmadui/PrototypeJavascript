@@ -9,11 +9,11 @@ partial stylesheet _(underscore)
 
 Flex:
 display: flex;
-flex-wrap: wrap/no-wrap/wrap-reverse
-justify-contnet: center / space-around
-flex-direction: row/column/row-reverse
-transition: all 1s
-transform: scale(1.1)
+flex-wrap: wrap/no-wrap/wrap-reverse;
+justify-contnet: center / space-around;
+flex-direction: row/column/row-reverse;
+transition: all 1s;
+transform: scale(1.1);
 
 Animation:
 animation-name: rain;
